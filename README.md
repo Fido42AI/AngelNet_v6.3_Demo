@@ -3,9 +3,9 @@ AngelNet_v6.3_Demo - Fractal-based AI prototype demonstrating non-linear self-gr
 # AngelNet v6.3_Demo — Fractal Intelligence of a New Generation
 
 Author: Bohdan Fedorenko  
-License: MIT  
+License 
 Release Date: 2025-04-06  
-Language: Python 3.10+  
+Language: Python 3.10 ( just)
 File Format: Partially `.py`, partially `.cpython-310` (auto-compiled and protected)
 
 ---
