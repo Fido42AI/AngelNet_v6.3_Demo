@@ -76,5 +76,5 @@ Outcome
 AngelNet v6.4 demonstrates the first testable precedent of nonlinear, self-organizing, fractal growth in neural architecture. Further developments will be published in upcoming versions.
 Project: AngelNet
 Author: Bohdan Fedorenko
-Contact: FractalBit42@proton.me
+Contact: contact@angel-net.tech
 Initial Release Date: April 2025
